@@ -1,0 +1,22 @@
+# Xcode
+## User settings
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+## Build products
+build/
+DerivedData/
+*.moved-aside
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Tellal CLI (Tracked separately at https://github.com/ufukcelen/tellal)
+TellalCLI/
